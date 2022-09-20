@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\bin\Debug\tarea 20-9.exe.config
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\bin\Debug\tarea 20-9.exe
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\bin\Debug\tarea 20-9.pdb
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea 20-9.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea_20_9.Form1.resources
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea_20_9.Properties.Resources.resources
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea 20-9.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea 20-9.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea 20-9.exe
+C:\Users\HP\source\repos\tarea 20-9\tarea 20-9\obj\Debug\tarea 20-9.pdb
